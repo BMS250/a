@@ -1,0 +1,10 @@
+name: MY ACTION
+on: push
+jobs:
+  sdfbdsbsd:
+    runs-on: ubuntu-latest
+    steps:
+        - name: a1
+          run: echo "my a1"
+        - name: a2
+          run: echo "my a2"
