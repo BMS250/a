@@ -1,16 +1,6 @@
 def print_hi(name):
-    print(f'Hiiiiiiiiiiiiiiii, {name}')
-    print(sub(1, 2))
-    what is your name?
-    i++;
-    REMOVE A LINE! 
+    print(f'Hi, {name}')
+
 
 if __name__ == '__main__':
     print_hi('bola')
-    
-    
-add in master
-add in bola
-
-adfvdfvdf master
-skfvndfklnv;dfnv bola
