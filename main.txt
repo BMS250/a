@@ -4,6 +4,10 @@ fbvdfsvvbfavds kiki
 
 if __name__ == '__main__':
     print_hi('bola')
+<<<<<<< HEAD
 
 
 aiaiaiaiaiai kiki
+=======
+sdfbvdfdsbdfv master
+>>>>>>> bbc6281 (add to master)
